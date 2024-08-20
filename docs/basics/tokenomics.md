@@ -17,10 +17,10 @@ Ronin validators need to hold and stake RON to participate in validating blocks.
 
 The quantity of RON reserved for various network functions, as a percentage of the total existing token supply, follows this distribution:
 
-* Rewards: 25%
+* Rewards: 45%
 * Community incentives: 30%
-* Sky Mavis: 30%
-* Ecosystem fund: 15%
+* Sky Mavis: 50%
+* Ecosystem fund: 35%
 
 <img src={totalSupply} width={800} />
 
